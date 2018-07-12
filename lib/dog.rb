@@ -13,7 +13,7 @@ class Dog(bark,sit)
     @sit
   end
   
-  dog_one="Woof!", "The Dog is sitting"
+  dog_one=dog.new"Woof!", "The Dog is sitting"
   
   puts Dog
   
