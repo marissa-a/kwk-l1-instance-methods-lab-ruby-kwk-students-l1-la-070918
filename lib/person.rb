@@ -1,15 +1,9 @@
 # person.rb
-class Person(talk,walk) 
-  @talk=talk
-  @walk=walk
-end
-
+class Person
 def talk
-  @talk
+  puts "Hello World"
 end 
 
 def walk
-  @talk
+  puts "The person is walking"
 end
-
-person_one=
