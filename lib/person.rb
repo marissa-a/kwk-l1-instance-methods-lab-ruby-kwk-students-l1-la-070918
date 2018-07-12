@@ -5,3 +5,11 @@ class Person(talk,walk)
 end
 
 def talk
+  @talk
+end 
+
+def walk
+  @talk
+end
+
+person_one=
