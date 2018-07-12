@@ -1,5 +1,5 @@
 # dog.rb
-class Dog(bark,sit)
+class Dog
   
   def bark
     "Woof!"
