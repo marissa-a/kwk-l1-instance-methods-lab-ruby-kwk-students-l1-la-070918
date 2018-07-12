@@ -3,4 +3,4 @@ class Dog
   def initialize
     @bark="Woof"
   end
-  puts DOG
+  puts Dog
